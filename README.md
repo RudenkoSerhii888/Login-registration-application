@@ -4,9 +4,11 @@
 Пароль: password
 Файли JPG – це скріншоти, які показують, як виглядає програма.
 
-This is a small web application that can log in to an account and register a new user. This project has an admin role and a user role. In the admin role, you can add and delete users and register new users. The access of the admin role and the user role is different. 
-This project uses Spring Security and Spring Boot.
-We use the BCrypt Algorithm. These are algorithms for fast secure hashing. Responsible for converting passwords to hashes.
-Admin Login: Admin
+This is a small web application that allows users to log in and register a new account. The project includes both an admin and a user role. As an admin, you can add and delete users as well as register new ones. The access permissions for the admin and user roles are different.
+
+This project uses Spring Security and Spring Boot. We use the BCrypt algorithm, which provides fast and secure password hashing. It is responsible for converting passwords into hashes.
+
+Admin login: Admin
 Password: password
-JPG files are screenshots of what the application looks like.
+
+The JPG files are screenshots that show what the application looks like.
